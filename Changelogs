@@ -1,0 +1,14 @@
+# device changes 28/12/2025
+
+1. Configured Power stack
+2. Moved to lineage libperfmgr
+3. Configured utilization clamping for all groups
+4. Fixed frequency lockups
+5. Use foreground cpuset/uclamp for composer/gralloc
+6. Set config_defaultPeakRefreshRate to 121(matches stock hw composer)
+7. Reduced aggressive SurfaceFlinger frame timing
+8. Ashwani new tuned powerhint
+
+
+
+
