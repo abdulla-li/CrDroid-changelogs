@@ -9,6 +9,11 @@
 7. Reduced aggressive SurfaceFlinger frame timing
 8. Ashwani new tuned powerhint
 
+#device changes 1/01/2026
 
-
+1. Tuned gpu
+2. enabled powerhal processing
+3. enabled gl back pressure
+4. tweaked settings open and close animation
+5. dropped v4x
 
