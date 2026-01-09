@@ -17,3 +17,9 @@
 4. tweaked settings open and close animation
 5. dropped v4x
 
+#device changes 9/01/2026
+
+1. improved performance stability
+2. reworked fp dimlayer(by ethan)
+3. adopted ashwani powerhint
+4. fixed saturation completely
